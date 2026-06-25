@@ -23,6 +23,3 @@ Um simulador clássico do Jogo da Forca, desenvolvido para terminal, focado em l
 2.  Descarrega o ficheiro "jogoForca.kt".
 3.  Compila e corre o programa.
 
-## Autor:
-
-Stalkie
